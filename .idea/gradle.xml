@@ -6,6 +6,11 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="" />
         <option name="gradleJvm" value="loom-ea-25" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../Università/MGC/progetto-mpgc-Luca-Gasparretti/progetto-mpgc-Luca-Gasparretti" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
